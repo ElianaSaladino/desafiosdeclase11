@@ -1,0 +1,55 @@
+
+.row{
+    justify-content: space-evenly;
+    
+}
+.color-nav{
+    background-color: rgb(186, 129, 129);
+}
+.navbar{
+    padding: 2rem;
+}
+.ancho-carousel{
+    width: 100vw;
+}
+.displayflex{
+    display: flex;
+    justify-content: space-around;
+}
+.nuestrosproductos{
+    color:peru ;
+    padding: 15px;
+}
+.indexflex{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+    font-size: 3rem;
+}
+
+.buttonpf {
+    background-color: #e4b8ca;
+}
+
+.flexpf{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-content: stretch;
+}
+.paddingqs{
+    padding: 30px;
+    color: rgb(137, 135, 127);
+    background-color: rgb(236, 211, 211);
+}
+
+.card{
+    background-color: #f0d7cb; 
+}
+
+.btn-primary {
+    background-color: honeydew;
+    color: peru;
+    --bs-btn-border-color: none;
+}
